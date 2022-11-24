@@ -26,12 +26,7 @@ body{
     border-radius: 8px;
     border: none;
 }
-#logoCubeCar{
-    width: 50%;
-    position: relative;
-    margin: 10px;
-    margin-left: 0px;
-}
+
 
 .label{
     font-family: inter;
